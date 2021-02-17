@@ -8,7 +8,7 @@ LIMITS
 TODO gxtsema gxt key length <8
 TODO gxtsema filename (excluding extension must be) <16
 TODO label name \<=38
-TODO varname <40
+TODO varname <50
 TODO scriptname \<=7
 TODO scriptnames \<= 300
 TODO \<=9216 gvar storage words
